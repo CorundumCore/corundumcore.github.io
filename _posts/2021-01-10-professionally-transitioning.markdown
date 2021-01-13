@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Professionally Transitioning"
+author: Ruby Sullivan
 date:   2021-01-10 09:00:00 -0500
 categories: personal
 ---
@@ -34,7 +35,7 @@ or further along in their careers than I am.
 ## Plans for 2021
 
 - [x] Build this new website
-- [ ] Create a new Jekyll theme *Corundum* for my site so it looks pretty
+- [x] Create a new Jekyll theme *Corundum* for my site so it looks pretty
 - [ ] Use NodeCG to create layouts for my Twitch stream
 - [ ] Release the alpha build of my currently unnamed online TCG
 - [ ] Start podcast/YouTube channel for covering the Seattle Kraken
