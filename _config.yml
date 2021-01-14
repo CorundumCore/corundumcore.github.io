@@ -28,6 +28,7 @@ url: "https://stuffby.cc" # the base hostname & protocol for your site, e.g. htt
 twitter_username: stuffbycc
 github_username:  corundumcore
 gravatar_hash: 31a3ad2dcd9bab41cfac770cc1ca4319
+timezone: America/New_York
 
 # Build settings
 plugins:
