@@ -53,7 +53,3 @@ more comfortable with myself and being out publicly.
 [twitch]:   https://twitch.tv/CorundumCore
 [github]:   https://github.com/CorundumCore
 [linkedin]: https://www.linkedin.com/in/ruby-sullivan-801854203/
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
