@@ -2,7 +2,7 @@
 layout: redirect
 title: Resume
 permalink: /resume/
-redirect: https://github.com/CorundumCore/Resume/blob/main/RubyResume.pdf
+redirect: https://raw.githubusercontent.com/CorundumCore/Resume/main/ResumeImage.jpg
 ---
 
 ### Redirecting to my resume...
