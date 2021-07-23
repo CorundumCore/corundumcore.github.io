@@ -4,18 +4,22 @@ title: About
 permalink: /about/
 ---
 
-Hi, I'm Ruby Sullivan, and my pronouns are she/her & they/them. I'm a
-Computer Science student at the [Rochester Institute of Technology][rit],
-entering my final semester.
+Hi, my name is Ruby Sullivan, and my pronouns are she/they. I am a transgender
+software engineer, streamer, and tech educator living in the Greater Rochester
+Area of Upstate New York. I am an alumnus of the
+[Rochester Institute of Technology][rit] and [Computer Science House][csh].
 
 My current focuses are in web development and broadcast graphics, and I've
 worked on projects pertaining to GPS data, CRISP-DM, accessability in
-computing, and tech education.
+computing, and technology education geared toward younger minds.
 
-My only remaining graduation requirement is a semester of cooperative
-education, which RIT defines as significant, full-time, paid work experience
-directly related to a student's field of study. Therefore, hiring me for a
-full-time position would complete my graduation requirements and secure a
-young, motivated talent for your company!
+I also do a lot of volunteer work, particularly around charity speedrunning
+marathons and similar organizations. Currently, I'm a mod for
+[SpeedrunsRochester][srroc] and on staff for [Power Up With Pride][puwp].
+
+
 
 [rit]: https://rit.edu
+[csh]: https://csh.rit.edu
+[srroc]: https://srroc.com
+[puwp]: https://powerupwithpride.org

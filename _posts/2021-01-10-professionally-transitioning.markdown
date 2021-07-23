@@ -52,4 +52,4 @@ more comfortable with myself and being out publicly.
 [discord]:  https://discordapp.com/users/199394635934728192/
 [twitch]:   https://twitch.tv/CorundumCore
 [github]:   https://github.com/CorundumCore
-[linkedin]: https://www.linkedin.com/in/ruby-sullivan-801854203/
+[linkedin]: https://www.linkedin.com/in/rubycsullivan/
