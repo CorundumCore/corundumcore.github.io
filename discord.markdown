@@ -2,7 +2,7 @@
 layout: redirect
 title: Discord
 permalink: /discord/
-redirect: https://discord.com/invite/6qyJWDW
+redirect: https://discord.gg/9sSJJvdB5w
 ---
 
 ### Redirecting to Discord...

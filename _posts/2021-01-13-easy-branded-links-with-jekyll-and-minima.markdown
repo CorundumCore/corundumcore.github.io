@@ -10,7 +10,7 @@ categories: code
 
 Having short, branded links is super useful for expanding your community
 across multiple platforms. A great example of this is Twitter user
-[@excogs][excogs]' [gears.link][gl], [gears.link/tea][glt], and
+[@involutegirl][excogs]'s [gears.link][gl], [gears.link/tea][glt], and
 [gears.link/discord][gld]. I wanted to have some for my Twitch channel and
 Discord server, but also wanted to have the links displayed in the header
 of my Jekyll page as a means of easy access for visitors on my blog. I also
@@ -82,7 +82,7 @@ users with slower devices know what's up if it takes a while to perform the
 redirect, so they're not just looking at a blank screen.
 
 
-[excogs]: https://twitter.com/excogs
+[excogs]: https://twitter.com/involutegirl
 [gl]:     https://gears.link
 [glt]:    https://gears.link/tea
 [gld]:    https://gears.link/discord

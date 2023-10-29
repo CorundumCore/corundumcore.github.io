@@ -36,9 +36,6 @@ or further along in their careers than I am.
 
 - [x] Build this new website
 - [x] Create a new Jekyll theme *Corundum* for my site so it looks pretty
-- [ ] Use NodeCG to create layouts for my Twitch stream
-- [ ] Release the alpha build of my currently unnamed online TCG
-- [ ] Start podcast/YouTube channel for covering the Seattle Kraken
 
 ---
 

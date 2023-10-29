@@ -45,40 +45,6 @@ There were issues with a professor during my last semester, but my classmates
 misgendered me. My other professors were all excellent, though, and I really
 enjoyed working with them on my research project.
 
-## Career
-
-Let's start with the good news! Earlier this week, I accepted a position with
-a company working on a NYSDOT contract, with the offer of a full-time position
-available at the end of the contract. I'll be working with technologies I'm
-familiar with, in an environment that I have tangential experience with through
-my college internships and coursework.
-
-It was a struggle getting to this point, though, and the last few months have
-been rough on my mental state. Before my legal name change process was
-complete* (which we'll talk about in the next section), it was very difficult
-finding job postings that I didn't get immediately rejected for. See, many
-companies have you fill out some basic information for a preliminary background
-check during the application process. While my legal name was updated in June,
-it took until earlier this week for my social security record update
-application to be processed. Many of these automated preliminary backgrounds
-checks gave me no opportunity to input that my legal name and social security
-record did match, so my application would instantly go in the metaphorical
-trash can.
-
-If I did manage to get through to an interview, I found that I struggled with
-video interviews. During my first one, it was very clear that my interviewers
-were not expecting to see someone who looked like me on their screen. While
-they were polite, I felt more like a specimen being observed rather than a
-candidate being considered. That really threw me off my game, and I struggled
-with the technical interview after that. It took a few more interviews to brush
-off that bad experience, and it was incredibly frustrating knowing that I was
-more capable than my interviews were suggesting, and I felt very held back by
-my anxiety.
-
-When I did nail an interview, though, I really nailed it! I got a follow-up
-call three hours after my interview with my now employer saying that they gave
-the green light to write up an offer for me.
-
 ## Legal
 
 As I alluded to in the previous section, my legal name change process is (kind
