@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Hi, my name is Ruby Sullivan, and my pronouns are she/they. I am a transgender
-software engineer, streamer, and tech educator living in the Greater Rochester
-Area of Upstate New York. I am an alumnus of the
+Hi, my name is Ruby C. Sullivan, and my pronouns are she/they. I am a transgender
+software engineer and streamer in Western New York. I am an alumnus of the
 [Rochester Institute of Technology][rit] and [Computer Science House][csh].
 
 My current focuses are in web development and broadcast graphics, and I've

@@ -8,7 +8,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 #
-# If you need help with YAML syntax, here are some quick references for you: 
+# If you need help with YAML syntax, here are some quick references for you:
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
@@ -19,10 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Stuff by CorundumCore
-author: Ruby Sullivan
+author: Ruby C. Sullivan
 email: ruby@stuffby.cc
 description: >- # this means to ignore newlines until "baseurl:"
-  Software Engineer, Tech Educator, and Amateur Broadcaster in Rochester, New York
+  Software Engineer and Speedrunner in Western New York
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://stuffby.cc" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: stuffbycc
